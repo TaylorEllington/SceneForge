@@ -1,0 +1,9 @@
+[submodule "SceneForge/lib/glm"]
+	path = SceneForge/lib/glm
+	url = https://github.com/g-truc/glm.git
+[submodule "SceneForge/lib/glfw"]
+	path = SceneForge/lib/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "SceneForge/lib/imgui"]
+	path = SceneForge/lib/imgui
+	url = https://github.com/ocornut/imgui.git
